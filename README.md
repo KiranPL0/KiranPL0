@@ -10,13 +10,13 @@
 ---
 ## The Languages I Code In
 I code in 
-**HTML\**
-**CSS\**
-**JAVASCRIPT\**
-**NODEJS\**
-**C# (USING UNITY)\**
-**PYTHON\**
-**LUA\**
+**HTML**\
+**CSS**\
+**JAVASCRIPT**\
+**NODEJS**\
+**C# (USING UNITY)**\
+**PYTHON**\
+**LUA**\
 **LUAU**
 
 ---
