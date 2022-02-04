@@ -4,7 +4,7 @@
 [My Portfolio](https://kiranpl.com)\
 [My Main Site](https://kiran.at)\
 [Landscapes](https://landscapes.kiranpl.com)\
-[A New Year Greeter](https://happy-new-years.kiranpl.com)\
+[A New Year Greeter](https://happy-new-year.kiranpl.com)\
 [My Old Portfolio](https://archive.kiranpl.com)
 
 ---
