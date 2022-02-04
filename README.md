@@ -25,7 +25,7 @@ I code in\
 [Twitter](https://twitter.com/hiimkiran_)\
 [Discord](https://discord.gg/Kv9EChFgwu)\
 [GitHub](https://github.com/KiranPL0)\
-[Shwoomer](https://shwoomer.xyz/user/kiran)
+[Shwoomer](https://shwoomer.xyz/profile/kiran)
 
 ---
 
