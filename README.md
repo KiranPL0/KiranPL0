@@ -9,7 +9,7 @@
 
 ---
 ## The Languages I Code In
-I code in 
+I code in\
 **HTML**\
 **CSS**\
 **JAVASCRIPT**\
