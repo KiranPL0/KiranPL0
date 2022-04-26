@@ -23,7 +23,7 @@ I code in\
 
 ## My Accounts
 [Twitter](https://twitter.com/hiimkiran_)\
-[Discord](https://discord.gg/Kv9EChFgwu)\
+Discord - kiran#1000\
 [GitHub](https://github.com/KiranPL0)\
 [Shwoomer](https://shwoomer.xyz/profile/kiran)
 
